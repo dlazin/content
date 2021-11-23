@@ -25,6 +25,9 @@ Firefox 95 is the current [Beta version of Firefox](https://www.mozilla.org/en-U
 
 ### CSS
 
+- The CSS [`cursor`](/en-US/docs/Web/CSS/cursor) property is now supported on Firefox for Android,
+  making it easier for Android users with a mouse to determine which elements are clickable ({{bug(1672609)}}).
+
 #### Removals
 
 ### JavaScript
@@ -46,6 +49,8 @@ Firefox 95 is the current [Beta version of Firefox](https://www.mozilla.org/en-U
 #### DOM
 
 #### Media, WebRTC, and Web Audio
+
+- {{domxref("SpeechSynthesisEvent.elapsedTime")}} now returns the elapsed time in seconds rather than milliseconds, matching an update to the specification (see {{bug(1732498)}}).
 
 #### Removals
 

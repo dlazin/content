@@ -587,7 +587,6 @@
 /en-US/docs/CSS/Using_CSS_transforms	/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms
 /en-US/docs/CSS/Using_CSS_transitions	/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
 /en-US/docs/CSS/Using_CSS_variables	/en-US/docs/Web/CSS/Using_CSS_custom_properties
-/en-US/docs/CSS/Using_URL_values_for_the_cursor_property	/en-US/docs/Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property
 /en-US/docs/CSS/Using_media_queries_from_code	/en-US/docs/Web/CSS/Media_Queries/Testing_media_queries
 /en-US/docs/CSS/Using_the_CSS_multi-column_layout	/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts
 /en-US/docs/CSS/Value_definition_syntax	/en-US/docs/Web/CSS/Value_definition_syntax
@@ -696,8 +695,6 @@
 /en-US/docs/CSS/counter-reset	/en-US/docs/Web/CSS/counter-reset
 /en-US/docs/CSS/cursor	/en-US/docs/Web/CSS/cursor
 /en-US/docs/CSS/cursor-redirect-1	/en-US/docs/Web/CSS/cursor
-/en-US/docs/CSS/cursor/Using_URL_values_for_the_cursor_property	/en-US/docs/Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property
-/en-US/docs/CSS/cursor/url	/en-US/docs/Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property
 /en-US/docs/CSS/default	/en-US/docs/Web/CSS/:default
 /en-US/docs/CSS/direction	/en-US/docs/Web/CSS/direction
 /en-US/docs/CSS/display	/en-US/docs/Web/CSS/display
@@ -2266,7 +2263,6 @@
 /en-US/docs/DOM/window.scrollY	/en-US/docs/Web/API/Window/scrollY
 /en-US/docs/DOM/window.scrollbars	/en-US/docs/Web/API/Window/scrollbars
 /en-US/docs/DOM/window.self	/en-US/docs/Web/API/Window/self
-/en-US/docs/DOM/window.setCursor	/en-US/docs/Web/API/Window/setCursor
 /en-US/docs/DOM/window.setImmediate	/en-US/docs/Web/API/Window/setImmediate
 /en-US/docs/DOM/window.setInterval	/en-US/docs/Web/API/setInterval
 /en-US/docs/DOM/window.setTimeout	/en-US/docs/Web/API/setTimeout
@@ -2693,7 +2689,6 @@
 /en-US/docs/DOM:window.scrollY	/en-US/docs/Web/API/Window/scrollY
 /en-US/docs/DOM:window.scrollbars	/en-US/docs/Web/API/Window/scrollbars
 /en-US/docs/DOM:window.self	/en-US/docs/Web/API/Window/self
-/en-US/docs/DOM:window.setCursor	/en-US/docs/Web/API/Window/setCursor
 /en-US/docs/DOM:window.setInterval	/en-US/docs/Web/API/setInterval
 /en-US/docs/DOM:window.setTimeout	/en-US/docs/Web/API/setTimeout
 /en-US/docs/DOM:window.showModalDialog	/en-US/docs/Web/API/Window/showModalDialog
@@ -3421,7 +3416,6 @@
 /en-US/docs/Document_Object_Model_(DOM)/window.scrollX	/en-US/docs/Web/API/Window/scrollX
 /en-US/docs/Document_Object_Model_(DOM)/window.scrollY	/en-US/docs/Web/API/Window/scrollY
 /en-US/docs/Document_Object_Model_(DOM)/window.scrollbars	/en-US/docs/Web/API/Window/scrollbars
-/en-US/docs/Document_Object_Model_(DOM)/window.setCursor	/en-US/docs/Web/API/Window/setCursor
 /en-US/docs/Document_Object_Model_(DOM)/window.setImmediate	/en-US/docs/Web/API/Window/setImmediate
 /en-US/docs/Document_Object_Model_(DOM)/window.setInterval	/en-US/docs/Web/API/setInterval
 /en-US/docs/Document_Object_Model_(DOM)/window.setTimeout	/en-US/docs/Web/API/setTimeout
@@ -3605,7 +3599,6 @@
 /en-US/docs/Games/Workflows/Touch_Event_Horizon	/en-US/docs/Games/Tutorials/Touch_Event_Horizon
 /en-US/docs/Games/visual_typescript_game_engine	/en-US/docs/Games
 /en-US/docs/Getting_started_on_MDN	/en-US/docs/MDN/Contribute/Getting_started
-/en-US/docs/Giving_'cursor'_a_Hand	/en-US/docs/Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property
 /en-US/docs/Glossary/AOM	/en-US/docs/Glossary/Accessibility_tree
 /en-US/docs/Glossary/B2G	/en-US/docs/Glossary/Boot2Gecko
 /en-US/docs/Glossary/Block/Block_(CSS)	/en-US/docs/Glossary/Block/CSS
@@ -4017,6 +4010,8 @@
 /en-US/docs/HTTP/Response_codes	/en-US/docs/Web/HTTP/Status
 /en-US/docs/HTTP/X-Frame-Options	/en-US/docs/Web/HTTP/Headers/X-Frame-Options
 /en-US/docs/HTTP_Caching_FAQ	/en-US/docs/Web/HTTP/Caching
+/en-US/docs/HTTP_Debugging_(Capturing_a_HTTP_log)	https://firefox-source-docs.mozilla.org/networking/http/logging.html
+/en-US/docs/HTTP_Logging	https://firefox-source-docs.mozilla.org/networking/http/logging.html
 /en-US/docs/HTTP_Pipelining_FAQ	/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x
 /en-US/docs/HTTP_Transaction_Model	/en-US/docs/Web/HTTP
 /en-US/docs/HTTP_access_control	/en-US/docs/Web/HTTP/CORS
@@ -5417,7 +5412,7 @@
 /en-US/docs/MDN/At_ten/Contributing_to_MDN	/en-US/docs/MDN/Contribute
 /en-US/docs/MDN/Contribute/Code_sample_guidelines	/en-US/docs/MDN/Guidelines/Code_guidelines
 /en-US/docs/MDN/Contribute/Content	/en-US/docs/MDN/Guidelines
-/en-US/docs/MDN/Contribute/Content/Content_blocks	/en-US/docs/MDN/Guidelines/CSS_style_guide
+/en-US/docs/MDN/Contribute/Content/Content_blocks	/en-US/docs/MDN/Contribute/Markdown_in_MDN
 /en-US/docs/MDN/Contribute/Content/Custom_macros	/en-US/docs/MDN/Structures/Macros/Commonly-used_macros
 /en-US/docs/MDN/Contribute/Content/Layout/API_landing_page	/en-US/docs/MDN/Contribute/Howto/Write_an_API_reference
 /en-US/docs/MDN/Contribute/Content/Layout/Reference_page	/en-US/docs/MDN/Contribute/Howto/Write_an_API_reference
@@ -5432,7 +5427,7 @@
 /en-US/docs/MDN/Contribute/FAQ	/en-US/docs/MDN/Contribute
 /en-US/docs/MDN/Contribute/Guidelines	/en-US/docs/MDN/Guidelines
 /en-US/docs/MDN/Contribute/Guidelines/Best_practices	/en-US/docs/MDN/Guidelines/Conventions_definitions
-/en-US/docs/MDN/Contribute/Guidelines/CSS_style_guide	/en-US/docs/MDN/Guidelines/CSS_style_guide
+/en-US/docs/MDN/Contribute/Guidelines/CSS_style_guide	/en-US/docs/MDN/Contribute/Markdown_in_MDN
 /en-US/docs/MDN/Contribute/Guidelines/Code_guidelines	/en-US/docs/MDN/Guidelines/Code_guidelines
 /en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS	/en-US/docs/MDN/Guidelines/Code_guidelines/CSS
 /en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/General	/en-US/docs/MDN/Guidelines/Code_guidelines/General
@@ -5441,7 +5436,7 @@
 /en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/Shell	/en-US/docs/MDN/Guidelines/Code_guidelines/Shell
 /en-US/docs/MDN/Contribute/Guidelines/Code_samples	/en-US/docs/MDN/Guidelines/Code_guidelines
 /en-US/docs/MDN/Contribute/Guidelines/Content	/en-US/docs/MDN/Guidelines/Does_this_belong_on_MDN
-/en-US/docs/MDN/Contribute/Guidelines/Content_blocks	/en-US/docs/MDN/Guidelines/CSS_style_guide
+/en-US/docs/MDN/Contribute/Guidelines/Content_blocks	/en-US/docs/MDN/Contribute/Markdown_in_MDN
 /en-US/docs/MDN/Contribute/Guidelines/Conventions_definitions	/en-US/docs/MDN/Guidelines/Conventions_definitions
 /en-US/docs/MDN/Contribute/Guidelines/Custom_macros	/en-US/docs/MDN/Structures/Macros/Commonly-used_macros
 /en-US/docs/MDN/Contribute/Guidelines/Does_this_belong_on_MDN	/en-US/docs/MDN/Guidelines/Does_this_belong_on_MDN
@@ -5469,7 +5464,7 @@
 /en-US/docs/MDN/Contribute/Structures/Banners_and_notices	/en-US/docs/MDN/Structures/Banners_and_notices
 /en-US/docs/MDN/Contribute/Structures/Code_examples	/en-US/docs/MDN/Structures/Code_examples
 /en-US/docs/MDN/Contribute/Structures/Compatibility_tables	/en-US/docs/MDN/Structures/Compatibility_tables
-/en-US/docs/MDN/Contribute/Structures/Content_blocks	/en-US/docs/MDN/Guidelines/CSS_style_guide
+/en-US/docs/MDN/Contribute/Structures/Content_blocks	/en-US/docs/MDN/Contribute/Markdown_in_MDN
 /en-US/docs/MDN/Contribute/Structures/Live_samples	/en-US/docs/MDN/Structures/Live_samples
 /en-US/docs/MDN/Contribute/Structures/Macros	/en-US/docs/MDN/Structures/Macros
 /en-US/docs/MDN/Contribute/Structures/Macros/Commonly-used_macros	/en-US/docs/MDN/Structures/Macros/Commonly-used_macros
@@ -5495,7 +5490,7 @@
 /en-US/docs/MDN/Contribute/Structures/Syntax_sections	/en-US/docs/MDN/Structures/Syntax_sections
 /en-US/docs/MDN/Contribute/Style_guide	/en-US/docs/MDN/Guidelines
 /en-US/docs/MDN/Contribute/Style_guide/Compatibility_tables	/en-US/docs/MDN/Structures/Compatibility_tables
-/en-US/docs/MDN/Contribute/Style_guide/Content_blocks	/en-US/docs/MDN/Guidelines/CSS_style_guide
+/en-US/docs/MDN/Contribute/Style_guide/Content_blocks	/en-US/docs/MDN/Contribute/Markdown_in_MDN
 /en-US/docs/MDN/Contribute/Style_guide/Custom_macros	/en-US/docs/MDN/Structures/Macros/Commonly-used_macros
 /en-US/docs/MDN/Contribute/Style_guide/Live_samples	/en-US/docs/MDN/Structures/Live_samples
 /en-US/docs/MDN/Contribute/Style_guide/Macros	/en-US/docs/MDN/Structures/Macros
@@ -5510,6 +5505,7 @@
 /en-US/docs/MDN/Contribute/Tools/Sample_server	/en-US/docs/MDN/Tools/Sample_server
 /en-US/docs/MDN/Feedback	/en-US/docs/MDN/Contribute/Feedback
 /en-US/docs/MDN/Getting_started	/en-US/docs/MDN/Contribute/Getting_started
+/en-US/docs/MDN/Guidelines/CSS_style_guide	/en-US/docs/MDN/Contribute/Markdown_in_MDN
 /en-US/docs/MDN/Guidelines/Content	/en-US/docs/MDN/Guidelines/Does_this_belong_on_MDN
 /en-US/docs/MDN/JavaScript	/en-US/docs/Web/JavaScript
 /en-US/docs/MDN/Kuma	/en-US/docs/MDN/Yari
@@ -5527,7 +5523,7 @@
 /en-US/docs/MDN/Quick_start	/en-US/docs/MDN/Contribute/Getting_started
 /en-US/docs/MDN/Structures/:-ms-input-placeholder_pseudo-class	/en-US/docs/Web/CSS/:placeholder-shown
 /en-US/docs/MDN/Structures/API_references/API_reference_sidebars	/en-US/docs/MDN/Contribute/Howto/Write_an_API_reference/Sidebars
-/en-US/docs/MDN/Structures/Content_blocks	/en-US/docs/MDN/Guidelines/CSS_style_guide
+/en-US/docs/MDN/Structures/Content_blocks	/en-US/docs/MDN/Contribute/Markdown_in_MDN
 /en-US/docs/MDN/Tools/Document_parameters	/en-US/docs/MDN/Tools/Unsupported_GET_API
 /en-US/docs/MDN/User_guide	/en-US/docs/MDN/Tools
 /en-US/docs/MDN/User_guide/Troubleshooting_KumaScript_errors	/en-US/docs/MDN/Tools/KumaScript/Troubleshooting
@@ -5692,6 +5688,7 @@
 /en-US/docs/Mozilla/Add-ons/WebExtensions/omnibox/OnInputEnteredDisposition	/en-US/docs/Mozilla/Add-ons/WebExtensions/API/omnibox/OnInputEnteredDisposition
 /en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Bundled_web_pages	/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Extension_pages
 /en-US/docs/Mozilla/Add-ons/WebExtensions/web-ext	https://extensionworkshop.com/documentation/develop/getting-started-with-web-ext/
+/en-US/docs/Mozilla/Debugging/HTTP_logging	https://firefox-source-docs.mozilla.org/networking/http/logging.html
 /en-US/docs/Mozilla/Developer_guide/ESLint	https://firefox-source-docs.mozilla.org/code-quality/lint/index.html
 /en-US/docs/Mozilla/Firefox/Privacy	/en-US/docs/Web/Privacy
 /en-US/docs/Mozilla/Firefox/Privacy/Redirect_tracking_protection	/en-US/docs/Web/Privacy/Redirect_tracking_protection
@@ -5851,8 +5848,8 @@
 /en-US/docs/Mozilla_event_reference/waiting	/en-US/docs/Web/API/HTMLMediaElement/waiting_event
 /en-US/docs/Mozilla_event_reference/wheel	/en-US/docs/Web/API/Element/wheel_event
 /en-US/docs/NNTP	/en-US/docs/Glossary/NNTP
-/en-US/docs/NPAPI/Constants	/en-US/docs/Plugins/Guide/Constants
-/en-US/docs/NPAPI:Constants	/en-US/docs/Plugins/Guide/Constants
+/en-US/docs/NPAPI/Constants	/en-US/docs/Glossary/Plugin
+/en-US/docs/NPAPI:Constants	/en-US/docs/Glossary/Plugin
 /en-US/docs/NaN	/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN
 /en-US/docs/Namespaces_in_IMSC	/en-US/docs/Related/IMSC/Namespaces
 /en-US/docs/Navigation_timing	/en-US/docs/Web/API/Navigation_timing_API
@@ -5876,13 +5873,40 @@
 /en-US/docs/PHP	/en-US/docs/Glossary/PHP
 /en-US/docs/POP3	/en-US/docs/Glossary/POP
 /en-US/docs/Parsing_and_serializing_XML	/en-US/docs/Web/Guide/Parsing_and_serializing_XML
-/en-US/docs/Plugins/Flash_to_HTML5/Video/Converting_File_Formats	/en-US/docs/Plugins/Flash_to_HTML5/Video/File_format_conversion
-/en-US/docs/Plugins/Flash_to_HTML5/Video/Custom_UI_controls	/en-US/docs/Plugins/Flash_to_HTML5/Video/Players
-/en-US/docs/Plugins/Flash_to_HTML5/Video/Internationalization_and_localization	/en-US/docs/Plugins/Flash_to_HTML5/Video/Subtitles_captions
-/en-US/docs/Plugins/Flash_to_HTML5/Video/Interstitial_ads	/en-US/docs/Plugins/Flash_to_HTML5/Video/Advertising
-/en-US/docs/Plugins/Flash_to_HTML5/Video/Video_ads	/en-US/docs/Plugins/Flash_to_HTML5/Video/Advertising
-/en-US/docs/Plugins/Flash_to_HTML5_migration_guide	/en-US/docs/Plugins/Flash_to_HTML5
-/en-US/docs/Plugins/Guide/Version,_UI,_and_Status_Information	/en-US/docs/Plugins/Guide/Version_UI_and_Status_Information
+/en-US/docs/Plugins	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Blocking_By_Domain	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Clipboard	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video/Advertising	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video/Converting_File_Formats	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video/Custom_UI_controls	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video/DRM_and_authentication	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video/Distribution	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video/File_format_conversion	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video/Internationalization_and_localization	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video/Interstitial_ads	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video/Planning	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video/Players	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video/Subtitles_captions	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5/Video/Video_ads	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Flash_to_HTML5_migration_guide	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Browser_Side_Plug-in_API	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Constants	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Drawing_and_Event_Handling	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Initialization_and_Destruction	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Memory	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Plug-in_Basics	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Plug-in_Development_Overview	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Plug-in_Side_Plug-in_API	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Scripting_plugins	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Streams	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Structures	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/URLs	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Version,_UI,_and_Status_Information	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Guide/Version_UI_and_Status_Information	/en-US/docs/Glossary/Plugin
+/en-US/docs/Plugins/Roadmap	/en-US/docs/Glossary/Plugin
 /en-US/docs/Printing	/en-US/docs/Web/Guide/Printing
 /en-US/docs/Properly_Configuring_Server_MIME_Types	/en-US/docs/Learn/Server-side/Configuring_server_MIME_types
 /en-US/docs/Properties_compatibility_table_for_forms_widgets	/en-US/docs/Learn/Forms/Property_compatibility_table_for_form_controls
@@ -6240,7 +6264,7 @@
 /en-US/docs/SVG_improvements_in_Firefox_3	/en-US/docs/Mozilla/Firefox/Releases/3/SVG_improvements
 /en-US/docs/Same_origin_policy_for_JavaScript	/en-US/docs/Web/Security/Same-origin_policy
 /en-US/docs/Sample_.htaccess_file	/en-US/docs/Learn/Server-side/Apache_Configuration_htaccess
-/en-US/docs/Scripting_plugins	/en-US/docs/Plugins/Guide/Scripting_plugins
+/en-US/docs/Scripting_plugins	/en-US/docs/Glossary/Plugin
 /en-US/docs/Secciones_y_contornos_de_un_documento_HTML5	/es/docs/Sections_and_Outlines_of_an_HTML5_document
 /en-US/docs/Security/CSP	/en-US/docs/Web/HTTP/CSP
 /en-US/docs/Security/CSP/CSP_policy_directives	/en-US/docs/Web/HTTP/Headers/Content-Security-Policy
@@ -6263,8 +6287,8 @@
 /en-US/docs/Security_changes_in_Firefox_3.1	/en-US/docs/Mozilla/Firefox/Releases/3.5/Security_changes
 /en-US/docs/Security_changes_in_Firefox_3.5	/en-US/docs/Mozilla/Firefox/Releases/3.5/Security_changes
 /en-US/docs/Security_in_Firefox_2	/en-US/docs/Mozilla/Firefox/Releases/2/Security_changes
-/en-US/docs/Series/Gecko_Plugin_API_Reference	/en-US/docs/Plugins/Guide
-/en-US/docs/Series:Gecko_Plugin_API_Reference	/en-US/docs/Plugins/Guide
+/en-US/docs/Series/Gecko_Plugin_API_Reference	/en-US/docs/Glossary/Plugin
+/en-US/docs/Series:Gecko_Plugin_API_Reference	/en-US/docs/Glossary/Plugin
 /en-US/docs/Server-Side_Access_Control	/en-US/docs/Web/HTTP/CORS
 /en-US/docs/Server-sent_events	/en-US/docs/Web/API/Server-sent_events
 /en-US/docs/Server-sent_events/EventSource	/en-US/docs/Web/API/EventSource
@@ -6657,7 +6681,6 @@
 /en-US/docs/Using_Firefox_1.5_caching	/en-US/docs/Mozilla/Firefox/Releases/1.5/Using_Firefox_1.5_caching
 /en-US/docs/Using_HTML5_audio_and_video	/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content
 /en-US/docs/Using_JSON_in_Firefox	/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
-/en-US/docs/Using_URL_values_for_the_cursor_property	/en-US/docs/Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property
 /en-US/docs/Using_Web_Standards_in_your_Web_Pages/Making_your_page_using_web_standards_-_how_to	/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML
 /en-US/docs/Using_Web_Standards_in_your_Web_Pages/Using_XMLHttpRequest	/en-US/docs/Web/API/XMLHttpRequest/Using_XMLHttpRequest_in_IE6
 /en-US/docs/Using_Web_Standards_in_your_Web_Pages:Making_your_page_using_web_standards_-_how_to	/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML
@@ -7055,9 +7078,7 @@
 /en-US/docs/Web/API/CanvasRenderingContext2D/mozImageSmoothingEnabled	/en-US/docs/Web/API/CanvasRenderingContext2D/imageSmoothingEnabled
 /en-US/docs/Web/API/CanvasRenderingContext2D/mozTextStyle	/en-US/docs/Web/API/CanvasRenderingContext2D/font
 /en-US/docs/Web/API/Canvas_API/Drawing_graphics_with_canvas	/en-US/docs/Web/API/Canvas_API/Tutorial
-/en-US/docs/Web/API/CharacterData.previousElementSibling	/en-US/docs/Web/API/Element/previousElementSibling
-/en-US/docs/Web/API/CharacterData/nextElementSibling	/en-US/docs/Web/API/Element/nextElementSibling
-/en-US/docs/Web/API/CharacterData/previousElementSibling	/en-US/docs/Web/API/Element/previousElementSibling
+/en-US/docs/Web/API/CharacterData.previousElementSibling	/en-US/docs/Web/API/CharacterData/previousElementSibling
 /en-US/docs/Web/API/ChildNode.nextElementSibling	/en-US/docs/Web/API/Element/nextElementSibling
 /en-US/docs/Web/API/ChildNode.remove	/en-US/docs/Web/API/Element/remove
 /en-US/docs/Web/API/ChildNode/after	/en-US/docs/Web/API/Element/after
@@ -7939,10 +7960,16 @@
 /en-US/docs/Web/API/MediaRecorder/canRecordMimeType	/en-US/docs/Web/API/MediaRecorder/isTypeSupported
 /en-US/docs/Web/API/MediaRecorder_API	/en-US/docs/Web/API/MediaStream_Recording_API
 /en-US/docs/Web/API/MediaRecorder_API/Using_the_MediaRecorder_API	/en-US/docs/Web/API/MediaStream_Recording_API/Using_the_MediaStream_Recording_API
+/en-US/docs/Web/API/MediaSettingsRange	/en-US/docs/Web/API/ImageCapture/getPhotoCapabilities
+/en-US/docs/Web/API/MediaSettingsRange/max	/en-US/docs/Web/API/ImageCapture/getPhotoCapabilities
+/en-US/docs/Web/API/MediaSettingsRange/min	/en-US/docs/Web/API/ImageCapture/getPhotoCapabilities
+/en-US/docs/Web/API/MediaSettingsRange/step	/en-US/docs/Web/API/ImageCapture/getPhotoCapabilities
 /en-US/docs/Web/API/MediaStream.addTrack	/en-US/docs/Web/API/MediaStream/addTrack
 /en-US/docs/Web/API/MediaStream/MediaStream.getTracks()	/en-US/docs/Web/API/MediaStream/getTracks
 /en-US/docs/Web/API/MediaStream/getTracks()	/en-US/docs/Web/API/MediaStream/getTracks
 /en-US/docs/Web/API/MediaStreamAudioDestinationNode.stream	/en-US/docs/Web/API/MediaStreamAudioDestinationNode/stream
+/en-US/docs/Web/API/MediaStreamAudioSourceOptions	/en-US/docs/Web/API/MediaStreamAudioSourceNode/MediaStreamAudioSourceNode
+/en-US/docs/Web/API/MediaStreamAudioSourceOptions/mediaStream	/en-US/docs/Web/API/MediaStreamAudioSourceNode/MediaStreamAudioSourceNode
 /en-US/docs/Web/API/MediaStreamEvent.MediaStreamEvent	/en-US/docs/Web/API/MediaStreamEvent/MediaStreamEvent
 /en-US/docs/Web/API/MediaStreamEvent.stream	/en-US/docs/Web/API/MediaStreamEvent/stream
 /en-US/docs/Web/API/MediaStreamTrack.enabled	/en-US/docs/Web/API/MediaStreamTrack/enabled
@@ -8289,6 +8316,11 @@
 /en-US/docs/Web/API/PeriodicSyncManager/register()	/en-US/docs/Web/API/PeriodicSyncManager/register
 /en-US/docs/Web/API/PeriodicSyncManager/unregister()	/en-US/docs/Web/API/PeriodicSyncManager/unregister
 /en-US/docs/Web/API/PermissionStatus/status	/en-US/docs/Web/API/PermissionStatus/state
+/en-US/docs/Web/API/PhotoCapabilities	/en-US/docs/Web/API/ImageCapture/getPhotoCapabilities
+/en-US/docs/Web/API/PhotoCapabilities/fillLightMode	/en-US/docs/Web/API/ImageCapture/getPhotoCapabilities
+/en-US/docs/Web/API/PhotoCapabilities/imageHeight	/en-US/docs/Web/API/ImageCapture/getPhotoCapabilities
+/en-US/docs/Web/API/PhotoCapabilities/imageWidth	/en-US/docs/Web/API/ImageCapture/getPhotoCapabilities
+/en-US/docs/Web/API/PhotoCapabilities/redEyeReduction	/en-US/docs/Web/API/ImageCapture/getPhotoCapabilities
 /en-US/docs/Web/API/PictureInPictureWindow/PictureInPictureWindow:_resize_event	/en-US/docs/Web/API/PictureInPictureWindow/resize_event
 /en-US/docs/Web/API/Point	/en-US/docs/Web/API/WebKitPoint
 /en-US/docs/Web/API/Position	/en-US/docs/Web/API/GeolocationPosition
@@ -8426,6 +8458,7 @@
 /en-US/docs/Web/API/RTCRtpSender/getCapabilities()	/en-US/docs/Web/API/RTCRtpSender/getCapabilities
 /en-US/docs/Web/API/RTCRtpSynchronizationSource	/en-US/docs/Web/API/RTCRtpReceiver/getSynchronizationSources
 /en-US/docs/Web/API/RTCRtpSynchronizationSource/voiceActivityFlag	/en-US/docs/Web/API/RTCRtpReceiver/getSynchronizationSources
+/en-US/docs/Web/API/RTCRtpTransceiverDirection	/en-US/docs/Web/API/RTCRtpTransceiver/direction
 /en-US/docs/Web/API/RTCRtpTransceiverInit	/en-US/docs/Web/API/RTCPeerConnection/addTransceiver
 /en-US/docs/Web/API/RTCSctpTransportState	/en-US/docs/Web/API/RTCSctpTransport/state
 /en-US/docs/Web/API/RTCSdpType	/en-US/docs/Web/API/RTCSessionDescription/type
@@ -8554,6 +8587,7 @@
 /en-US/docs/Web/API/ServiceWorkerGlobalScope/ServiceWorkerGlobalScope.onfetch	/en-US/docs/Web/API/ServiceWorkerGlobalScope/onfetch
 /en-US/docs/Web/API/ServiceWorkerGlobalScope/ServiceWorkerGlobalScope.onmessage	/en-US/docs/Web/API/ServiceWorkerGlobalScope/onmessage
 /en-US/docs/Web/API/ServiceWorkerGlobalScope/activate	/en-US/docs/Web/API/ServiceWorkerGlobalScope/activate_event
+/en-US/docs/Web/API/ServiceWorkerGlobalScope/caches	/en-US/docs/Web/API/caches
 /en-US/docs/Web/API/ServiceWorkerGlobalScope/claim	/en-US/docs/Web/API/Clients/claim
 /en-US/docs/Web/API/ServiceWorkerGlobalScope/fetch	/en-US/docs/Web/API/fetch
 /en-US/docs/Web/API/ServiceWorkerGlobalScope/install	/en-US/docs/Web/API/ServiceWorkerGlobalScope/install_event
@@ -8658,7 +8692,7 @@
 /en-US/docs/Web/API/Touch/touchcancel_event	/en-US/docs/Web/API/Element/touchcancel_event
 /en-US/docs/Web/API/Touch/touchend_event	/en-US/docs/Web/API/Document/touchend_event
 /en-US/docs/Web/API/Touch/touchmove_event	/en-US/docs/Web/API/Document/touchmove_event
-/en-US/docs/Web/API/Touch/touchstart_event	/en-US/docs/Web/API/Element/touchstart_event
+/en-US/docs/Web/API/Touch/touchstart_event	/en-US/docs/Web/API/Document/touchstart_event
 /en-US/docs/Web/API/TouchEvent.changedTouches	/en-US/docs/Web/API/TouchEvent/changedTouches
 /en-US/docs/Web/API/TouchEvent.targetTouches	/en-US/docs/Web/API/TouchEvent/targetTouches
 /en-US/docs/Web/API/TouchEvent.touches	/en-US/docs/Web/API/TouchEvent/touches
@@ -9049,7 +9083,7 @@
 /en-US/docs/Web/API/XR	/en-US/docs/Web/API/XRSystem
 /en-US/docs/Web/API/XR/devicechange_event	/en-US/docs/Web/API/XRSystem/devicechange_event
 /en-US/docs/Web/API/XR/isSessionSupported	/en-US/docs/Web/API/XRSystem/isSessionSupported
-/en-US/docs/Web/API/XR/ondevicechange	/en-US/docs/Web/API/XRSystem/ondevicechange
+/en-US/docs/Web/API/XR/ondevicechange	/en-US/docs/Web/API/XRSystem/devicechange_event
 /en-US/docs/Web/API/XR/requestSession	/en-US/docs/Web/API/XRSystem/requestSession
 /en-US/docs/Web/API/XR/supportsSession	/en-US/docs/Web/API/XRSystem/isSessionSupported
 /en-US/docs/Web/API/XREnvironmentBlendMode	/en-US/docs/Web/API/XRSession/environmentBlendMode
@@ -9063,6 +9097,8 @@
 /en-US/docs/Web/API/XRInputSourcesChangeEventInit/added	/en-US/docs/Web/API/XRInputSourcesChangeEvent/XRInputSourcesChangeEvent
 /en-US/docs/Web/API/XRInputSourcesChangeEventInit/removed	/en-US/docs/Web/API/XRInputSourcesChangeEvent/XRInputSourcesChangeEvent
 /en-US/docs/Web/API/XRInputSourcesChangeEventInit/session	/en-US/docs/Web/API/XRInputSourcesChangeEvent/XRInputSourcesChangeEvent
+/en-US/docs/Web/API/XRLightProbe/onreflectionchange	/en-US/docs/Web/API/XRLightProbe/reflectionchange_event
+/en-US/docs/Web/API/XRReferenceSpace/onreset	/en-US/docs/Web/API/XRReferenceSpace/reset_event
 /en-US/docs/Web/API/XRReferenceSpaceEventInit	/en-US/docs/Web/API/XRReferenceSpaceEvent/XRReferenceSpaceEvent
 /en-US/docs/Web/API/XRReferenceSpaceEventInit/referenceSpace	/en-US/docs/Web/API/XRReferenceSpaceEvent/XRReferenceSpaceEvent
 /en-US/docs/Web/API/XRReferenceSpaceEventInit/transform	/en-US/docs/Web/API/XRReferenceSpaceEvent/XRReferenceSpaceEvent
@@ -9073,6 +9109,7 @@
 /en-US/docs/Web/API/XRSessionEventInit/session	/en-US/docs/Web/API/XRSessionEvent/XRSessionEvent
 /en-US/docs/Web/API/XRSessionInit	/en-US/docs/Web/API/XRSystem/requestSession
 /en-US/docs/Web/API/XRSessionMode	/en-US/docs/Web/API/XRSystem/requestSession
+/en-US/docs/Web/API/XRSystem/ondevicechange	/en-US/docs/Web/API/XRSystem/devicechange_event
 /en-US/docs/Web/API/XRTargetRayMode	/en-US/docs/Web/API/XRInputSource/targetRayMode
 /en-US/docs/Web/API/XRTargetRayModoe	/en-US/docs/Web/API/XRInputSource/targetRayMode
 /en-US/docs/Web/API/XRVisibilityState	/en-US/docs/Web/API/XRSession/visibilityState
@@ -9585,7 +9622,6 @@
 /en-US/docs/Web/API/window.scrollY	/en-US/docs/Web/API/Window/scrollY
 /en-US/docs/Web/API/window.scrollbars	/en-US/docs/Web/API/Window/scrollbars
 /en-US/docs/Web/API/window.self	/en-US/docs/Web/API/Window/self
-/en-US/docs/Web/API/window.setCursor	/en-US/docs/Web/API/Window/setCursor
 /en-US/docs/Web/API/window.setImmediate	/en-US/docs/Web/API/Window/setImmediate
 /en-US/docs/Web/API/window.setInterval	/en-US/docs/Web/API/setInterval
 /en-US/docs/Web/API/window.setTimeout	/en-US/docs/Web/API/setTimeout
@@ -10003,6 +10039,7 @@
 /en-US/docs/Web/CSS/CSS_Background_and_Borders/Scaling_background_images	/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Resizing_background_images
 /en-US/docs/Web/CSS/CSS_Background_and_Borders/Using_CSS_multiple_backgrounds	/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Using_multiple_backgrounds
 /en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Scaling_background_images	/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Resizing_background_images
+/en-US/docs/Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property	/en-US/docs/Web/CSS/cursor
 /en-US/docs/Web/CSS/CSS_Box_Model/Box-shadow_generator	/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders/Box-shadow_generator
 /en-US/docs/Web/CSS/CSS_Colors	/en-US/docs/Web/CSS/CSS_Color
 /en-US/docs/Web/CSS/CSS_Compositing_and_Blending	/en-US/docs/Web/CSS/Compositing_and_Blending
@@ -10035,7 +10072,6 @@
 /en-US/docs/Web/CSS/CSS_Types/display-inside	/en-US/docs/Web/CSS/display-inside
 /en-US/docs/Web/CSS/CSS_Types/display-outside	/en-US/docs/Web/CSS/display-outside
 /en-US/docs/Web/CSS/CSS_User_Interface	/en-US/docs/Web/CSS/CSS_Basic_User_Interface
-/en-US/docs/Web/CSS/CSS_User_Interface/Using_URL_values_for_the_cursor_property	/en-US/docs/Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property
 /en-US/docs/Web/CSS/CSS_Viewport	/en-US/docs/Web/CSS/CSS_Device_Adaptation
 /en-US/docs/Web/CSS/CSS_descriptor_definition	/en-US/docs/Web/CSS
 /en-US/docs/Web/CSS/CSS_flex-wrap	/en-US/docs/Web/CSS/flex-wrap
@@ -10080,7 +10116,6 @@
 /en-US/docs/Web/CSS/Using_CSS_Columns	/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts
 /en-US/docs/Web/CSS/Using_CSS_media_queries	/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
 /en-US/docs/Web/CSS/Using_CSS_variables	/en-US/docs/Web/CSS/Using_CSS_custom_properties
-/en-US/docs/Web/CSS/Using_URL_values_for_the_cursor_property	/en-US/docs/Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property
 /en-US/docs/Web/CSS/Using_media_queries_from_code	/en-US/docs/Web/CSS/Media_Queries/Testing_media_queries
 /en-US/docs/Web/CSS/Using_the_CSS_multi-column_layout	/en-US/docs/Web/CSS/CSS_Columns/Using_multi-column_layouts
 /en-US/docs/Web/CSS/_image	/en-US/docs/Web/CSS/image/image()
@@ -10099,7 +10134,6 @@
 /en-US/docs/Web/CSS/counter_function	/en-US/docs/Web/CSS/counter()
 /en-US/docs/Web/CSS/counters	/en-US/docs/Web/CSS/counters()
 /en-US/docs/Web/CSS/cross-fade	/en-US/docs/Web/CSS/cross-fade()
-/en-US/docs/Web/CSS/cursor/url	/en-US/docs/Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property
 /en-US/docs/Web/CSS/default	/en-US/docs/Web/CSS/:default
 /en-US/docs/Web/CSS/document	/en-US/docs/Web/CSS/@document
 /en-US/docs/Web/CSS/document/@-moz-document	/en-US/docs/Web/CSS/@document
@@ -10340,6 +10374,7 @@
 /en-US/docs/Web/Events/focus	/en-US/docs/Web/API/Element/focus_event
 /en-US/docs/Web/Events/focusin	/en-US/docs/Web/API/Element/focusin_event
 /en-US/docs/Web/Events/focusout	/en-US/docs/Web/API/Element/focusout_event
+/en-US/docs/Web/Events/formdata	/en-US/docs/Web/API/HTMLFormElement/formdata_event
 /en-US/docs/Web/Events/fullscreenchange	/en-US/docs/Web/API/Document/fullscreenchange_event
 /en-US/docs/Web/Events/fullscreenerror	/en-US/docs/Web/API/Document/fullscreenerror_event
 /en-US/docs/Web/Events/gamepadconnected	/en-US/docs/Web/API/Window/gamepadconnected_event
@@ -10465,6 +10500,7 @@
 /en-US/docs/Web/Events/touchcancel	/en-US/docs/Web/API/Element/touchcancel_event
 /en-US/docs/Web/Events/touchend	/en-US/docs/Web/API/Document/touchend_event
 /en-US/docs/Web/Events/touchmove	/en-US/docs/Web/API/Document/touchmove_event
+/en-US/docs/Web/Events/touchstart	/en-US/docs/Web/API/Document/touchstart_event
 /en-US/docs/Web/Events/track	/en-US/docs/Web/API/RTCPeerConnection/track_event
 /en-US/docs/Web/Events/transitioncancel	/en-US/docs/Web/API/HTMLElement/transitioncancel_event
 /en-US/docs/Web/Events/transitionend	/en-US/docs/Web/API/HTMLElement/transitionend_event
@@ -11726,9 +11762,6 @@
 /en-US/docs/cssText	/en-US/docs/Web/API/CSSRule/cssText
 /en-US/docs/ctrlKey	/en-US/docs/Web/API/MouseEvent/ctrlKey
 /en-US/docs/currentTarget	/en-US/docs/Web/API/Event/currentTarget
-/en-US/docs/cursor/url	/en-US/docs/Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property
-/en-US/docs/cursor/url-redirect-1	/en-US/docs/Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property
-/en-US/docs/cursor:url	/en-US/docs/Web/CSS/CSS_Basic_User_Interface/Using_URL_values_for_the_cursor_property
 /en-US/docs/data_URIs	/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URIs
 /en-US/docs/de_temp	/en-US/docs/Web/API/document/documentElement
 /en-US/docs/defineGetter	/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
@@ -11887,7 +11920,7 @@
 /en-US/docs/removeChild	/en-US/docs/Web/API/Node/removeChild
 /en-US/docs/removeEventListener	/en-US/docs/Web/API/EventTarget/removeEventListener
 /en-US/docs/replaceChild	/en-US/docs/Web/API/Node/replaceChild
-/en-US/docs/rsmacs.	/en-US/docs/Plugins
+/en-US/docs/rsmacs.	/en-US/docs/Glossary/Plugin
 /en-US/docs/screenX	/en-US/docs/Web/API/MouseEvent/screenX
 /en-US/docs/screenY	/en-US/docs/Web/API/MouseEvent/screenY
 /en-US/docs/scrollbar-color	/en-US/docs/Web/CSS/scrollbar-color
@@ -11965,7 +11998,6 @@
 /en-US/docs/window.scrollX	/en-US/docs/Web/API/Window/scrollX
 /en-US/docs/window.scrollY	/en-US/docs/Web/API/Window/scrollY
 /en-US/docs/window.scrollbars	/en-US/docs/Web/API/Window/scrollbars
-/en-US/docs/window.setCursor	/en-US/docs/Web/API/Window/setCursor
 /en-US/docs/window.setInterval	/en-US/docs/Web/API/setInterval
 /en-US/docs/window.setTimeout	/en-US/docs/Web/API/setTimeout
 /en-US/docs/window.sidebar	/en-US/docs/Web/API/Window/sidebar

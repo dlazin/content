@@ -10,7 +10,7 @@ tags:
 ---
 {{EPUBRef}}
 
-An unzipped EPUB file is a folder containing two primary directories and a `mimetype` file. One of
+An unzipped EPUB file is a folder that contains two primary directories and a `mimetype` file. One of
 the directories is always named [`META-INF`](/en-US/docs/Related/EPUB/Structure/META-INF) and houses
 the container file (`container.xml`). This file defines the path to the
 [package file](/en-US/docs/Related/EPUB/Package) in the other directory (the

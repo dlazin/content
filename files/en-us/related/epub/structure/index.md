@@ -16,7 +16,7 @@ the container file (`container.xml`). This file defines the path to the
 [package file](/en-US/docs/Related/EPUB/Package) in the other directory (the
 [content directory](/en-US/docs/Related/EPUB/Structure/Content)). The content directory is commonly
 named `OEBPS` (Open Ebook Publication Structure) or `OPS` (Open Publication Structure) and is where
-the ebook's navigation, XHTML, CSS and other assets are stored.
+the ebook's [navigation](/en-US/docs/Related/EPUB/Navigation), XHTML, CSS and other assets are stored.
 
 An EPUB's structure is made up of the following key components:
 
